@@ -1,0 +1,21 @@
+@font-face{
+    font-family:"gamarjoba";
+    src: url(fonts/JacquesFrancoisShadow-Regular.ttf);
+  }
+  h2{
+    font-family:"gamarjoba";
+  }
+  @font-face{
+    font-family:"haha1";
+    src: url(fonts/OriginalSurfer-Regular.ttf);
+  }
+  p{
+    font-family:"haha1";
+  }
+  @font-face{
+    font-family:"ffff2";
+    src: url(fonts/Play-Regular.ttf);
+  }
+  p{
+    font-family:"ffff2";
+  }
